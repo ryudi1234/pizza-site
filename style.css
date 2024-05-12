@@ -1,0 +1,35 @@
+.menu
+{
+ background: rgb(68, 64, 64);
+ float: left;
+margin: 0px;
+    background-color: #3f3f3f;
+    list-style: none;
+}
+.menu >li{
+    position: relative;
+    float: left;
+    padding-right: 50px;
+}
+
+.menu li a {
+    color: #35ac7b;
+    text-decoration: none;
+    padding: 5px 10px;
+    display: block;
+}
+div img
+{
+    width: 33%;
+}
+div p{
+    width: 33.5%;
+    color: blue;
+    font-weight: bold;
+}
+
+p {
+    width: 33.5%;
+    color: red;
+    font-weight: bold;
+}
